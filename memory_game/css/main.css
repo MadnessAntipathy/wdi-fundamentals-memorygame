@@ -87,7 +87,7 @@ img {
   margin: 40px 8px 0 8px;
 }
 
-#playingarea {
+#game-board {
   position: relative;
   margin: 80px;
 }
@@ -118,5 +118,6 @@ img {
 
 .topcolor {
   color:#0000FF;
+  
   font-weight: 700;
 }
